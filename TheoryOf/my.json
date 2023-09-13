@@ -1,0 +1,23 @@
+{
+    "persons": {
+        "count": 2,
+        "items": [
+            {
+                "first_name": "Lindsey",
+                "last_name": "Stirling",
+                "sex": "female",
+                "age": "36",
+                "height": "1.61",
+                "likes": 2430
+            },
+            {
+                "first_name": "Jared",
+                "last_name": "Leto",
+                "sex": "male",
+                "age": "51",
+                "height": "1.80",
+                "likes": 2941
+            }
+        ]
+    }
+}
