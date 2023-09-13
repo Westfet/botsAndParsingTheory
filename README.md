@@ -1,1 +1,1 @@
-# botsAndParsingtheory
+Парсинг(библиотека beautiful soup и lxml) и простые телеграм боты.
